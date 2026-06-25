@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://bansideepak.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=4ADE80&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+(Web+%2B+AI);Crafting+intelligent+systems+with+web+%2B+ai;React+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+LangChain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=720&height=50&lines=Full+Stack+Developer+(Web+%2B+AI);Crafting+intelligent+systems+with+web+%2B+ai;React+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+LangChain" alt="Typing SVG" />
 </a>
 
 ### Hi, I'm Bansi Deepak Bollapally 👋
